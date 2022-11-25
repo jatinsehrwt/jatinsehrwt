@@ -1,4 +1,5 @@
-# Hi there 👋, My name is Jatin Sehrawat
+<a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do frontend development and open source!" src="./assets/images/github-header-image.png" /></a>
+
 
 ## Full Stack Web Developer
 
