@@ -1,5 +1,14 @@
-# Hi there 👋
+Hi there 👋 My name is Jatin Sehrawat
+===============================
 
+Full Stack Web Developer
+------------------------
+
+*   🌍  I'm based in Delhi
+*   🧠  I'm learning Next.js with tailwindcss
+*   🖥️  See my portfolio at [jatinseh.dev](http://jatinseh.dev)
+*   ✉️  You can contact me at [jatin.sehrawat08@gmail.com](mailto:jatin.sehrawat08@gmail.com)
+*   ⚡  It's a bug, not a feature.
 <!--
 **jatinseh/jatinseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
