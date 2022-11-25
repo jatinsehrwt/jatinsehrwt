@@ -2,8 +2,6 @@
 
 ## Full Stack Web Developer
 
-> Why do a simple task in 2 hours, when you can automate that in 2 months.
-
 -   🧠  I'm currently learning Next.js with tailwindcss.
 -   💬  Ask me about new and innovative technologies.
 -   🖥️  See my portfolio at [jatinseh.dev](http://jatinseh.dev)
@@ -60,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jatinseh&show_icons=true&theme=dracula" alt="Github Stats" />
 </a>
 <a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinseh&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinseh&layout=compact&theme=dracula" alt="Top Languages" />
 </a>
 
 <!-- [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinseh&show_icons=true&theme=dracula)](https://github.com/jatinseh/goomba)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinseh&layout=compact&theme=dracula)](https://github.com/jatinseh/goomba)  
