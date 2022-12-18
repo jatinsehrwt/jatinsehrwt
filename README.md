@@ -6,7 +6,7 @@
 -   🧠  I'm currently learning Next.js with tailwindcss and trying some deno using fresh framework.
 -   💬  Interested about new and innovative technologies.
 -   🖥️  See my portfolio at [jatinseh.dev](http://jatinseh.dev)
--   ✉️  You can contact me at [jatin.sehrawat08@gmail.com](mailto:jatin.sehrawat08@gmail.com)
+-   ✉️  You can contact me at [ijatinseh@gmail.com](mailto:ijatinseh@gmail.com)
 -   🌍  I'm based in Delhi, IN.
 -   ⚡  It's a bug, not a feature.
 
