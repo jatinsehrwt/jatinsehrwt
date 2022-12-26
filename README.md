@@ -64,11 +64,11 @@
 
 <!-- ### My GitHub Stats -->
 <a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijatinseh&show_icons=true&card_width=500&theme=dracula" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&card_width=500&theme=dracula" alt="Github Stats" />
 </a>
 <br />
 <a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ijatinseh&layout=compact&card_width=450&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsehrwt&layout=compact&card_width=450&theme=dracula" alt="Top Languages" />
 </a>
 
 ---
