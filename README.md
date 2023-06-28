@@ -12,12 +12,12 @@
 --->
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<!-- <div align=""> -->
-<table border>
+<!-- <div align="left"> -->
+<table>
   <thead>
     <tr>
-      <th>Skills</th>
-      <th>Proficiency</th>
+      <th style="text-align: center">Skills</th>
+      <th style="text-align: center">Proficiency</th>
     </tr>
   </thead>
   <tbody>
