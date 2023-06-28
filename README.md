@@ -11,10 +11,8 @@
 -   ⚡  It's a bug, not a feature.
 --->
 
----
-
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<table align="center">
+<table align="center" width="100%" border>
   <thead>
     <tr>
       <th>Skills</th>
@@ -58,15 +56,7 @@
 <!-- Codes by Quackit.com -->
 
 <!-- ### My GitHub Stats -->
-<a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer" >
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&card_width=450&theme=dracula" alt="Github Stats" />
-</a>
-<br />
-<a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsehrwt&layout=compact&card_width=450&theme=dracula" alt="Top Languages" />
-</a>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula" alt="Github Stats" />
 
 <!-- [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinseh&show_icons=true&theme=dracula)](https://github.com/jatinseh/goomba)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinseh&layout=compact&theme=dracula)](https://github.com/jatinseh/goomba)  
  -->
