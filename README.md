@@ -1,6 +1,6 @@
-<a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do frontend development and open source!" src="./assets/images/github-header-image.png" /></a>
+<a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./assets/images/github-header-image.png." /></a>
 
-
+<!---
 ## Full Stack Web Developer
 
 -   🧠  I'm currently learning Next.js with tailwindcss and trying some deno using fresh framework.
@@ -9,6 +9,7 @@
 -   🖥️  See my portfolio at [jatinseh.dev](http://jatinseh.dev)
 -   🌍  I'm based in Delhi, IN.
 -   ⚡  It's a bug, not a feature.
+--->
 
 ---
 
