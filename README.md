@@ -1,6 +1,6 @@
 <!-- <a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./github-header-image.png" /></a> -->
 
-## Hello, I am Jatin, Trying out Open Source 
+## Hello :wave: , I am Jatin, Trying out Open Source 
 -  🧠  I'm currently solving DSA problems.
 -  📕  Completing my Master's in Computer Science (2022 - 2024) from University of Delhi.
 -  💬  Interested in new and innovative technologies around the world.
@@ -8,7 +8,7 @@
 -  💬 Ask me about anything [here](https://github.com/jatinsehrwt/jatinsehrwt/discussions/categories/general)
 
 
->  ⚡   If it's a bug, it was not a feature. 
+>  ⚡   Light Mode attracts bugs. 
 
 ### My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula" alt="Github Stats" />
