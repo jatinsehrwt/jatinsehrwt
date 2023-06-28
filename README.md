@@ -1,4 +1,4 @@
-<a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./assets/images/github-header-image.png." /></a>
+<a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./github-header-image.png" /></a>
 
 <!---
 ## Full Stack Web Developer
@@ -14,7 +14,7 @@
 ---
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<table border="10">
+<table align="center">
   <thead>
     <tr>
       <th>Skills</th>
@@ -53,19 +53,13 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
       </td>
     </tr>
-    <tr>
-      <td><code>Other</code></td>
-      <td>
-        <a href="https://www.linux.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-      </td>
-    </tr>
   </tbody>
 </table>
 <!-- Codes by Quackit.com -->
 
 <!-- ### My GitHub Stats -->
-<a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&card_width=500&theme=dracula" alt="Github Stats" />
+<a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer" >
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&card_width=450&theme=dracula" alt="Github Stats" />
 </a>
 <br />
 <a href="https://github.com/jatinseh/goomba" target="_blank" rel="noreferrer">
