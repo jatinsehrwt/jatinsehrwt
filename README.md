@@ -1,4 +1,4 @@
-<a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./github-header-image.png" /></a>
+<!-- <a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./github-header-image.png" /></a> -->
 
 <!---
 ## Full Stack Web Developer
@@ -12,7 +12,8 @@
 --->
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<table align="center" width="100%" border>
+<!-- <div align=""> -->
+<table border>
   <thead>
     <tr>
       <th>Skills</th>
@@ -54,10 +55,10 @@
   </tbody>
 </table>
 <!-- Codes by Quackit.com -->
-
+&nbsp;
 <!-- ### My GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula" alt="Github Stats" />
-
+<!-- </div> -->
 <!-- [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinseh&show_icons=true&theme=dracula)](https://github.com/jatinseh/goomba)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinseh&layout=compact&theme=dracula)](https://github.com/jatinseh/goomba)  
  -->
  
