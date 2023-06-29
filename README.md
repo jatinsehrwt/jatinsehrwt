@@ -1,6 +1,8 @@
 <!-- <a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./github-header-image.png" /></a> -->
 
 ## Hello :wave: , I am Jatin, Trying out Open Source 
+
+### About me 
 -  🧠  I'm currently solving DSA problems.
 -  📕  Completing my Master's in Computer Science (2022 - 2024) from University of Delhi.
 -  💬  Interested in new and innovative technologies around the world.
@@ -12,18 +14,15 @@
 ```
 STAR THIS REPOSITORY AND BE MY BUDDY
 ```
-
-<br />
-
 <details>
   <summary>My buddy list</summary>
   Working on it!
 </details>
 
-<br />
-
 ### My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula" alt="Github Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula" alt="Github Stats" /> -->
+
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula)](https://github.com/jatinseh/goomba)
 
 <!-- [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinseh&show_icons=true&theme=dracula)](https://github.com/jatinseh/goomba)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinseh&layout=compact&theme=dracula)](https://github.com/jatinseh/goomba)  
  -->
