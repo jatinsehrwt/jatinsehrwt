@@ -59,7 +59,7 @@ __ Work in progress __
  -->
 
 ### <a href="https://emoji.gg/emoji/3416-rickroll"><img src="https://cdn3.emoji.gg/emojis/3416-rickroll.gif" width="32px" height="32px" alt="RickRoll"></a> Stargazers
-[![Stargazers repo roster for @jatinsehrwt/jatinsehrwt](https://reporoster.com/stars/jatinsehrwt/jatinsehrwt)](https://github.com/jatinsehrwt/jatinsehrwt/stargazers) 
+[![Stargazers repo roster for @jatinsehrwt/jatinsehrwt](https://reporoster.com/stars/jatinsehrwt/jatinsehrwt)](https://github.com/jatinsehrwt/jatinsehrwt/stargazers)
 
 ~ [jatinseh.dev](https://www.jatinseh.dev)  
 
