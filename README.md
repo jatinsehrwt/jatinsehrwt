@@ -7,7 +7,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣶⣶⣾⣿⠟⠉⡠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀$ whoami
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⣿⣿⣿⣿⣿⣿⡟⠁⣠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀> jatin
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ $ 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ $ █
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⢀⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -48,6 +48,8 @@
 > 
 ### <a href="https://emoji.gg/emoji/3581-cat-dead"><img src="https://cdn3.emoji.gg/emojis/3581-cat-dead.gif" width="32px" height="32px" alt="Cat_Dead"></a> Daily Quotes
 
+__ Work in progress __
+
 <!-- ### My GitHub Stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula" alt="Github Stats" /> -->
 
@@ -56,7 +58,7 @@
 <!-- [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinseh&show_icons=true&theme=dracula)](https://github.com/jatinseh/goomba)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinseh&layout=compact&theme=dracula)](https://github.com/jatinseh/goomba)  
  -->
 
-### Stargazers
+### <a href="https://emoji.gg/emoji/3416-rickroll"><img src="https://cdn3.emoji.gg/emojis/3416-rickroll.gif" width="32px" height="32px" alt="RickRoll"></a> Stargazers
 [![Stargazers repo roster for @jatinsehrwt/jatinsehrwt](https://reporoster.com/stars/jatinsehrwt/jatinsehrwt)](https://github.com/jatinsehrwt/jatinsehrwt/stargazers) 
 
 ~ [jatinseh.dev](https://www.jatinseh.dev)  <img src="https://komarev.com/ghpvc/?username=jatinsehrwt&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsehrwt" />
