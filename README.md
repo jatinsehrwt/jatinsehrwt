@@ -8,7 +8,19 @@
 -  💬 Ask me about anything [here](https://github.com/jatinsehrwt/jatinsehrwt/discussions/categories/general)
 
 
->  ⚡   Light Mode attracts bugs. 
+>  ⚡   Light Mode attracts bugs.
+```
+STAR THIS REPOSITORY AND BE MY BUDDY
+```
+
+<br />
+
+<details>
+  <summary>My buddy list</summary>
+  Working on it!
+</details>
+
+<br />
 
 ### My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=jatinsehrwt&show_icons=true&theme=dracula" alt="Github Stats" />
