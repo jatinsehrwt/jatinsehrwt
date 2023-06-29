@@ -61,7 +61,7 @@ __ Work in progress __
 ### <a href="https://emoji.gg/emoji/3416-rickroll"><img src="https://cdn3.emoji.gg/emojis/3416-rickroll.gif" width="32px" height="32px" alt="RickRoll"></a> Stargazers
 [![Stargazers repo roster for @jatinsehrwt/jatinsehrwt](https://reporoster.com/stars/jatinsehrwt/jatinsehrwt)](https://github.com/jatinsehrwt/jatinsehrwt/stargazers) 
 
-~ [jatinseh.dev](https://www.jatinseh.dev)  <img src="https://komarev.com/ghpvc/?username=jatinsehrwt&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsehrwt" />
+~ [jatinseh.dev](https://www.jatinseh.dev)  
 
 <!--
 **jatinseh/jatinseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
