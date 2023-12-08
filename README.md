@@ -37,15 +37,12 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠀⠣⠤⠠⠤⠐⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠀⠀⠀⠀    
 ```
 ### <a href="https://emoji.gg/emoji/4014-subaruduckdance"><img src="https://cdn3.emoji.gg/emojis/4014-subaruduckdance.gif" width="32px" height="32px" alt="SubaruDuckDance"></a>About me 
--  🧠  I'm currently solving DSA problems.
--  📕  Completing my Master's in Computer Science (2022 - 2024) from University of Delhi.
--  💬  Interested in new and innovative technologies around the world.
--  📧 Ask me anything, [here](https://github.com/jatinsehrwt/jatinsehrwt/discussions/categories/general).
+-  🧠  I'm currently an intern.
+-  📕  Persuing Master's in Computer Science (2022 - 2024) from University of Delhi.
+-  💬  Always interested in new and innovative technologies.
+-  📧  Ask me anything, [here](https://github.com/jatinsehrwt/jatinsehrwt/discussions/categories/general).
 
 >  🎀 Light Mode attracts bugs.
-> 
-> 🌟 STAR THIS REPOSITORY TO SEE SOME MAGIC!
-> 
 ### <a href="https://emoji.gg/emoji/3581-cat-dead"><img src="https://cdn3.emoji.gg/emojis/3581-cat-dead.gif" width="32px" height="32px" alt="Cat_Dead"></a> Daily Quotes
 
 __ Work in progress __
