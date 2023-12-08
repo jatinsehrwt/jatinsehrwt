@@ -57,11 +57,7 @@ __ Work in progress __
 
 <!-- [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinseh&show_icons=true&theme=dracula)](https://github.com/jatinseh/goomba)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinseh&layout=compact&theme=dracula)](https://github.com/jatinseh/goomba)  
  -->
-
-### <a href="https://emoji.gg/emoji/3416-rickroll"><img src="https://cdn3.emoji.gg/emojis/3416-rickroll.gif" width="32px" height="32px" alt="RickRoll"></a> Stargazers
-[![Stargazers repo roster for @jatinsehrwt/jatinsehrwt](https://reporoster.com/stars/jatinsehrwt/jatinsehrwt)](https://github.com/jatinsehrwt/jatinsehrwt/stargazers)
-
-~ [jatinseh.dev](https://www.jatinseh.dev)  
+~ [jsehrwt.com](https://www.jsehrwt.com)  
 
 <!--
 **jatinseh/jatinseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
