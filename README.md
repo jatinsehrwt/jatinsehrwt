@@ -1,5 +1,7 @@
 <!-- <a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./github-header-image.png" /></a> -->
 
+>  🎀 Light Mode attracts bugs.
+
 ## <a href="https://emoji.gg/emoji/5498_catJAM"><img src="https://cdn3.emoji.gg/emojis/5498_catJAM.gif" width="32px" height="32px" alt="catJAM"></a> Hi, Welcome!
 
 ```
@@ -24,8 +26,6 @@ Y'      `YP                                    ~~
 -  📕  Persuing Master's in Computer Science (2022 - 2024) from University of Delhi.
 -  💬  Always interested in new and innovative technologies.
 -  📧  Ask me anything, [here](https://github.com/jatinsehrwt/jatinsehrwt/discussions/categories/general).
-
->  🎀 Light Mode attracts bugs.
 
 ### <a href="https://emoji.gg/emoji/3512-cursedflushedwide"><img src="https://cdn3.emoji.gg/emojis/3512-cursedflushedwide.png" width="32px" height="32px" alt="CursedFlushedWide"></a> Daily Quotes
 
