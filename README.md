@@ -27,7 +27,7 @@ Y'      `YP                                    ~~
 
 >  🎀 Light Mode attracts bugs.
 
-### <a href="https://emoji.gg/emoji/3581-cat-dead"><img src="https://cdn3.emoji.gg/emojis/3581-cat-dead.gif" width="32px" height="32px" alt="Cat_Dead"></a> Daily Quotes
+### <a href="https://emoji.gg/emoji/3512-cursedflushedwide"><img src="https://cdn3.emoji.gg/emojis/3512-cursedflushedwide.png" width="32px" height="32px" alt="CursedFlushedWide"></a> Daily Quotes
 
 __ Work in progress __
 
