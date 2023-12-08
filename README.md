@@ -2,7 +2,7 @@
 
 >  🎀 Light Mode attracts bugs.
 
-## <a href="https://emoji.gg/emoji/5498_catJAM"><img src="https://cdn3.emoji.gg/emojis/5498_catJAM.gif" width="32px" height="32px" alt="catJAM"></a> Hi, Welcome!
+## <a href="https://emoji.gg/emoji/5498_catJAM"><img src="https://cdn3.emoji.gg/emojis/5498_catJAM.gif" width="32px" height="32px" alt="catJAM"></a> Hello stranger, welcome!
 
 ```
                    YAao,
