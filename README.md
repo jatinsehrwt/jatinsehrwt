@@ -1,7 +1,4 @@
 <!-- <a href="https://jatinseh.dev"><img alt="Hello, I'm Jatin. I do full-stack development and open source!" src="./github-header-image.png" /></a> -->
-
->  🎀 Light Mode attracts bugs.
-
 ## <a href="https://emoji.gg/emoji/5498_catJAM"><img src="https://cdn3.emoji.gg/emojis/5498_catJAM.gif" width="32px" height="32px" alt="catJAM"></a> Welcome!
 ```
                    YAao,                                    $ 
@@ -28,6 +25,8 @@ Y'      `YP                                    ~~
 
 ### <a href="https://emoji.gg/emoji/3512-cursedflushedwide"><img src="https://cdn3.emoji.gg/emojis/3512-cursedflushedwide.png" width="32px" height="32px" alt="CursedFlushedWide"></a> Daily Quotes
 __ Work in progress __
+
+>  🎀 Light Mode attracts bugs.
 
 ~ [jsehrwt.com](https://www.jsehrwt.com)  
 
