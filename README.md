@@ -18,8 +18,7 @@ Y'      `YP                                    ~~
          `'
 ```
 ### <a href="https://emoji.gg/emoji/4014-subaruduckdance"><img src="https://cdn3.emoji.gg/emojis/4014-subaruduckdance.gif" width="32px" height="32px" alt="SubaruDuckDance"></a>About me 
--  🧠  I'm currently an intern at [Synergy India](https://www.s3india.com/).
--  📕  Persuing Master's in Computer Science (2022 - 2024) from University of Delhi.
+-  🧠  I'm currently exploring.
 -  💬  Always interested in new and innovative technologies.
 -  📧  Ask me anything, [here](https://github.com/jatinsehrwt/jatinsehrwt/discussions/categories/general).
 
